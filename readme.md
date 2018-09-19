@@ -2,6 +2,12 @@
 
 Example project showing how stylelint can be used to lint Stylus files.
 
+## Getting Started
+
+```bash
+npm install
+```
+
 ## Testing in VS Code
 
 1. Install [stylelint by Shinnosuke Watanabe](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
